@@ -49,19 +49,19 @@ El proyecto comenzó como una solución basada en necesidades reales y actualmen
 ## ⚙️ Instalación
 
  id="restaurantinstall01"
-# Clonar repositorio
+### Clonar repositorio
 ```
 git clone https://github.com/tu-usuario/erestaurant.git
 ```
-# Entrar al proyecto
+### Entrar al proyecto
 ```
 cd erestaurant
 ```
-# Instalar dependencias
+### Instalar dependencias
 ```
 npm install
 ```
-# Ejecutar el servidor
+### Ejecutar el servidor
 ```
 npm start
 ```
