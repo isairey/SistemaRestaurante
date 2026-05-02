@@ -1,28 +1,75 @@
+# 🍽️ eRestaurant — Sistema de Gestión para Restaurantes
 
-![alt tag](https://i.ibb.co/gWYF4nQ/erestaurant-new-1024x517.png)
+![eRestaurant](https://i.ibb.co/gWYF4nQ/erestaurant-new-1024x517.png)
 
-**English:**
-Hello community, thanks for visiting this project that was created 4 years ago. Everything was born from a need and learning new technologies. Today I am developing a very complete CMS with many things which need collaboration from you. I count on your support
+---
 
-**Spanish:**
-Hola comunidad, gracias por visitar este proyecto que fue creado hace 4 años. todo nacio por una necesidad y aprendizaje de nuevas tecnologias. hoy en la actualidad estoy desarrollando un CMS muy completo con muchas cosas la cual se necesita colaboración de parte de ustedes. espero contar con su apoyo
+## 🚀 Descripción
 
-**French:**
-Bonjour la communauté, merci de visiter ce projet qui a été créé il y a 4 ans. Tout est né d'un besoin et de l'apprentissage de nouvelles technologies. Aujourd'hui, je développe un CMS très complet avec beaucoup de choses qui nécessitent une collaboration de votre part. J'espère compter sur votre soutien
+**eRestaurant** es un sistema de gestión para restaurantes diseñado para optimizar la administración de pedidos, productos y operaciones internas.
 
-**Germany:**
-Hallo Community, vielen Dank für den Besuch dieses Projekts, das vor 4 Jahren erstellt wurde. Alles wurde aus einem Bedürfnis geboren und lernte neue Technologien. Heute entwickle ich ein sehr vollständiges CMS mit vielen Dingen, die eine Zusammenarbeit von Ihnen erfordern. Ich hoffe auf Ihre Unterstützung zählen zu können.
+El proyecto comenzó como una solución basada en necesidades reales y actualmente se encuentra en evolución hacia un sistema más completo tipo CMS.
 
-**Russia:**
-Здравствуйте, сообщество, спасибо за посещение этого проекта, который был создан 4 года назад. Все рождено от потребности и изучения новых технологий. Сегодня я разрабатываю очень полную CMS со многими вещами, которые требуют совместной работы от вас. Я надеюсь рассчитывать на вашу поддержку.
+---
 
+## ✨ Características
 
-Sistema para restaurante creado en nodejs(Versión temporal)
-Primera versión:
+- 🧾 Gestión de pedidos  
+- 🍔 Administración de productos  
+- 👨‍🍳 Panel administrativo  
+- 📊 Control de operaciones  
+- ⚙️ Configuración del sistema  
+- 📱 Interfaz adaptable (responsive)  
 
-![alt tag](https://i.ibb.co/dWLHbJ6/screencapture-localhost-8080-panel-2020-05-03-14-38-23-1203x1536.png)
+---
 
+## 🖼️ Vista del sistema
 
+![Panel](https://i.ibb.co/dWLHbJ6/screencapture-localhost-8080-panel-2020-05-03-14-38-23-1203x1536.png)
 
-Desarrollado por www.edinsoncs.com
+---
 
+## 🧱 Tecnologías utilizadas
+
+- **Node.js**
+- **JavaScript**
+- **HTML**
+- **CSS**
+- **Express (opcional)**
+
+---
+
+## 🌐 Estado del proyecto
+
+⚠️ Versión actual: **Prototipo inicial**  
+🚧 En desarrollo activo hacia un CMS completo  
+
+---
+
+## ⚙️ Instalación
+
+```bash id="restaurantinstall01"
+# Clonar repositorio
+```
+git clone https://github.com/tu-usuario/erestaurant.git
+
+# Entrar al proyecto
+cd erestaurant
+
+# Instalar dependencias
+npm install
+
+# Ejecutar el servidor
+npm start
+📌 Requisitos
+Node.js >= 14
+npm o yarn
+Navegador moderno
+🤝 Contribuciones
+Fork del repositorio
+Crear una rama
+Realizar cambios
+Enviar Pull Request
+👨‍💻 Autor
+
+Isai Reyes
