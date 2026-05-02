@@ -1,0 +1,8 @@
+.cssPreload {
+	text-align: center;
+}
+.jsTextEllipsis {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
