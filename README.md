@@ -1,4 +1,4 @@
-# 🍽️ eRestaurant — Sistema de Gestión para Restaurantes
+# 🍽️ eRestaurant
 
 ![eRestaurant](https://i.ibb.co/gWYF4nQ/erestaurant-new-1024x517.png)
 
