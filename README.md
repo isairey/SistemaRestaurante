@@ -48,28 +48,43 @@ El proyecto comenzó como una solución basada en necesidades reales y actualmen
 
 ## ⚙️ Instalación
 
-```bash id="restaurantinstall01"
+ id="restaurantinstall01"
 # Clonar repositorio
 ```
 git clone https://github.com/tu-usuario/erestaurant.git
-
+```
 # Entrar al proyecto
+```
 cd erestaurant
-
+```
 # Instalar dependencias
+```
 npm install
-
+```
 # Ejecutar el servidor
+```
 npm start
-📌 Requisitos
-Node.js >= 14
-npm o yarn
-Navegador moderno
-🤝 Contribuciones
-Fork del repositorio
-Crear una rama
-Realizar cambios
-Enviar Pull Request
+```
+
+---
+
+## 📌 Requisitos
+
+- Node.js >= 14
+- npm o yarn
+- Navegador moderno
+
+---
+
+## 🤝 Contribuciones
+
+- Fork del repositorio
+- Crear una rama
+- Realizar cambios
+- Enviar Pull Request
+
+---
+
 👨‍💻 Autor
 
-Isai Reyes
+**Isai Reyes**
