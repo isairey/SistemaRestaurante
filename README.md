@@ -48,14 +48,14 @@ El proyecto comenzó como una solución basada en necesidades reales y actualmen
 
 ## ⚙️ Instalación
 
- id="restaurantinstall01"
+
 ### Clonar repositorio
 ```
-git clone https://github.com/tu-usuario/erestaurant.git
+git clone https://github.com/isairey/SistemaRestaurante.git
 ```
 ### Entrar al proyecto
 ```
-cd erestaurant
+cd SistemaRestaurante
 ```
 ### Instalar dependencias
 ```
